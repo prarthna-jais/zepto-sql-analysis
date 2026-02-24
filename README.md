@@ -76,7 +76,6 @@ These analyses demonstrate how SQL can be used for operational monitoring and pr
  Repository Contents
 
 - SQL script containing table creation, cleaning, and analysis queries
-- Dataset file (if included)
 - Documentation (this README)
 
 ---
